@@ -2,7 +2,7 @@ package com.mycompany.app.excersise;
 
 public class MathRecurrence {
     public static void main(String[] args) {
-        long n=10;
+        long n=3;
         System.out.println("silnia");
         System.out.println("silnia "+ n+" = "+ silnia(n));
     }
